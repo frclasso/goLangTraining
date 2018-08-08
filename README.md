@@ -1,4 +1,4 @@
 Go Lang training
 ===============
 
-Tutorial based in Todd McLeod's course, GoesToEleven(https://github.com/goestoeleven).
+Tutorial based on Todd McLeod's course, GoesToEleven(https://github.com/goestoeleven).
